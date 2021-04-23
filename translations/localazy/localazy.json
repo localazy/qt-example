@@ -1,0 +1,14 @@
+{
+  "writeKey": "your-write-key",
+  "readKey": "your-read-key",
+  
+  "upload": {
+    "type": "qt-ts",
+    "files": "../EN.ts"
+  },
+  
+  "download": {
+    "files": "./${lang}.ts"
+  }
+  
+}

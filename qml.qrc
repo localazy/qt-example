@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>translations/CS.ts</file>
+        <file>translations/EN.ts</file>
+        <file>translations/CS.qm</file>
+        <file>translations/EN.qm</file>
+    </qresource>
+</RCC>
